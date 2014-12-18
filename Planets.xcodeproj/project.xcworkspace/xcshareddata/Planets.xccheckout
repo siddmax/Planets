@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EF0306F-A330-4B2A-92B5-EC902D2C21A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Planets</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0CFC1301-25B2-4716-8641-17F35179F7E0</key>
+		<string>https://github.com/siddmax/Planets</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Planets.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0CFC1301-25B2-4716-8641-17F35179F7E0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/siddmax/Planets</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0CFC1301-25B2-4716-8641-17F35179F7E0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0CFC1301-25B2-4716-8641-17F35179F7E0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Planets</string>
+		</dict>
+	</array>
+</dict>
+</plist>
